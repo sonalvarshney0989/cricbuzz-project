@@ -1,0 +1,9 @@
+Required Tools and packages -
+> Vs Code
+> Pg admin4
+> psycopg 
+> streamlit 
+> psycopg2
+> pandas 
+
+Note : Apart from these you have to import all four Page file in the main cricstat.file.
